@@ -1,5 +1,8 @@
+header{
+  text-align: center;
+  font-size: 18pt;
 nav {
   text-align: center;
   font-size: 18pt;
-  
+  font-weight: bold;
 }
