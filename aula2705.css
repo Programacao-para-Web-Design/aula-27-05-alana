@@ -20,28 +20,28 @@ footer{
   text-align: center;
 }
 #article2{
-  color: pink;
+  background-color: pink;
   font-size: 17pt;
   font-weight: bold;
   text-align: center;
 }
 #aside{
-  color: yellow;
+  background-color: yellow;
   font-size: 17pt;
   font-weight: bold;
   text-align: center;
   width: 15%; 
   height: 100%; 
-  float: right; 
+  float: left; 
   position: fixed; 
 }
 aside{
-  color: orange;
+  background-color: orange;
   font-size: 17pt;
   font-weight: bold;
   text-align: center;
   width: 15%; 
   height: 100%; 
-  float: right; 
+  float: left; 
   position: fixed;
 }
