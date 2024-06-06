@@ -5,7 +5,7 @@ header{
   text-align: center;
   font-size: 18pt;
 }
-a{
+a:article1{
   box-shadow: 20px 20px 10px;
   text-align: center;
   font-size: 18pt;
@@ -40,6 +40,7 @@ footer{
   background-color: yellow;
   font-size: 17pt;
   font-weight: bold;
+  margin: 20px 0px 20px 20px;
   width: 15%; 
   height: 10%; 
   margin-left: 150px;
@@ -50,6 +51,7 @@ footer{
 aside{
   background-color: orange;
   font-size: 17pt;
+  margin: 20px 0px 20px 20px;
   font-weight: bold;
   width: 15%; 
   height: 10%; 
