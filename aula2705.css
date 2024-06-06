@@ -41,6 +41,7 @@ footer{
   height: 10%; 
   margin-left: 1500px;
   position: fixed; 
+  margin-bottom: -150px;
 }
 aside{
   background-color: orange;
