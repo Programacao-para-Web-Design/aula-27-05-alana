@@ -12,6 +12,8 @@ nav{
   font-weight: bold;
   background-color: teal;
   display: flex;
+  flex-direction: row;
+  justify-content: space around;
  }
 footer{
   text-align: center;
