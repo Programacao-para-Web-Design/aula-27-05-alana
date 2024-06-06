@@ -18,7 +18,7 @@ footer{
   font-size: 16pt;
   font-style: italic;
   background-color: blue;
-  margin-top: -100%;
+  margin-top: -90%;
 }
 #article1{
   background-color: purple;
@@ -26,8 +26,8 @@ footer{
   font-size: 17pt;
   font-weight: bold;
   text-align: center;
-  width: 15%; 
-  height: 10%; 
+  width: 150px; 
+  height: 30%; 
   display: flex;
 }
 #article2{
@@ -38,7 +38,7 @@ footer{
   text-align: center;
   width: 15%; 
   height: 30%; 
-  margin-bottom: -120px;
+  margin-bottom: -50px;
 }
 #aside1{
   background-color: yellow;
@@ -57,7 +57,7 @@ aside{
   font-size: 17pt;
   margin: 20px 0px 20px 20px;
   font-weight: bold;
-  width: 15%; 
+  width: 50px; 
   height: 10%; 
   margin-left: 1000px;
   margin-top: -10px;
