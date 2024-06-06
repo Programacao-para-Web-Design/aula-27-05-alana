@@ -23,14 +23,18 @@ footer{
   margin: 20px 0px 20px 20px;
   font-size: 17pt;
   font-weight: bold;
-   text-align: center;
+  text-align: center;
+  width: 15%; 
+  height: 10%; 
 }
 #article2{
   background-color: pink;
-   margin: 20px 0px 20px 20px;
+  margin: 20px 0px 20px 20px;
   font-size: 17pt;
   font-weight: bold;
   text-align: center;
+  width: 15%; 
+  height: 10%; 
 }
 #aside{
   background-color: yellow;
