@@ -18,6 +18,7 @@ footer{
   font-size: 16pt;
   font-style: italic;
   background-color: blue;
+  margin-top: -100%;
 }
 #article1{
   background-color: purple;
