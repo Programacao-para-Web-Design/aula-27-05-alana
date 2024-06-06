@@ -36,7 +36,7 @@ footer{
   font-weight: bold;
   width: 15%; 
   height: 10%; 
-  margin-left: 1500px;
+  margin-left: 150px;
   position: fixed; 
   margin-bottom: -150px;
 }
@@ -46,6 +46,7 @@ aside{
   font-weight: bold;
   width: 15%; 
   height: 10%; 
-  margin-left: 1000px; 
+  margin-left: 1000px;
+  margin-top: -10;
   position: fixed;
 }
