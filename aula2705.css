@@ -14,13 +14,15 @@ footer{
   font-weight: italic;
 }
 #article1{
-  color: purple;
+  background-color: purple;
+  margin: 20px 0px 20px 20px;
   font-size: 17pt;
   font-weight: bold;
   text-align: center;
 }
 #article2{
   background-color: pink;
+   margin: 20px 0px 20px 20px;
   font-size: 17pt;
   font-weight: bold;
   text-align: center;
@@ -32,7 +34,7 @@ footer{
   text-align: center;
   width: 15%; 
   height: 100%; 
-  float: left; 
+  margin-left: 150px;
   position: fixed; 
 }
 aside{
@@ -42,6 +44,6 @@ aside{
   text-align: center;
   width: 15%; 
   height: 100%; 
-  float: left; 
+  margin-left: 10px; 
   position: fixed;
 }
