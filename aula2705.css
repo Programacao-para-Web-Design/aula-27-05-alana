@@ -5,33 +5,14 @@ header{
   text-align: center;
   font-size: 18pt;
 }
-a:article1{
+nav{
   box-shadow: 20px 20px 10px;
   text-align: center;
   font-size: 18pt;
   font-weight: bold;
   background-color: teal;
  }
-  a:article2{
-  box-shadow: 20px 20px 10px;
-  text-align: center;
-  font-size: 18pt;
-  font-weight: bold;
-  background-color: teal;
-  }
-    a:aside1{
-  box-shadow: 20px 20px 10px;
-  text-align: center;
-  font-size: 18pt;
-  font-weight: bold;
-  background-color: teal;
-  }
-      a:aside{
-  box-shadow: 20px 20px 10px;
-  text-align: center;
-  font-size: 18pt;
-  font-weight: bold;
-  background-color: teal;
+
 }
 footer{
   text-align: center;
