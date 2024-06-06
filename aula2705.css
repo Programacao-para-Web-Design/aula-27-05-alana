@@ -1,17 +1,20 @@
 header{
   text-align: center;
   font-size: 18pt;
+  background-color: red;
 }
 nav{
   box-shadow: 20px 20px 10px;
   text-align: center;
   font-size: 18pt;
   font-weight: bold;
+  background-color: light blue;
 }
 footer{
   text-align: center;
   font-size: 16pt;
   font-weight: italic;
+  background-color: blue;
 }
 #article1{
   background-color: purple;
