@@ -23,12 +23,14 @@ footer{
   margin: 20px 0px 20px 20px;
   font-size: 17pt;
   font-weight: bold;
+   text-align: center;
 }
 #article2{
   background-color: pink;
    margin: 20px 0px 20px 20px;
   font-size: 17pt;
   font-weight: bold;
+  text-align: center;
 }
 #aside{
   background-color: yellow;
@@ -39,6 +41,7 @@ footer{
   margin-left: 150px;
   position: fixed; 
   margin-bottom: -150px;
+  text-align: center;
 }
 aside{
   background-color: orange;
@@ -49,4 +52,5 @@ aside{
   margin-left: 1000px;
   margin-top: -10px;
   position: fixed;
+  text-align: center;
 }
