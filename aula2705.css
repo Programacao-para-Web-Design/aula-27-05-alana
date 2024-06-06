@@ -18,7 +18,6 @@ footer{
   font-size: 16pt;
   font-style: italic;
   background-color: blue;
-  margin-top: -90%;
 }
 #article1{
   background-color: purple;
@@ -49,7 +48,7 @@ footer{
   height: 10%; 
   margin-left: 150px;
   position: fixed; 
-  margin-bottom: -130px;
+  margin-bottom: -200px;
   text-align: center;
 }
 aside{
