@@ -2,7 +2,7 @@ body{
   background-color: #4B0082;
 }
 main{
-    display: flex;
+  display: flex;
 }
 header{
   text-align: center;
